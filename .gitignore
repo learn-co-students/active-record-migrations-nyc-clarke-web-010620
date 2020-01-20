@@ -43,3 +43,6 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+db/migrate/01_create_artists.rb
+db/migrate/db/artists.sqlite
+db/migrate/sqlite3,
